@@ -17,4 +17,4 @@ Greetings! Currently, I am a Principal Biostatistician at [Tempus Labs](https://
 - Statistical computing: Penalization, Gaussian Markov Random Fields, Machine learning algorithms, Bayesian hierarchical modeling
 - Epidemiological/environmental health applications
 
-Here is my [CV](https://github.com/liuyanyxy2386/yanliu.github.io/blob/master/files/CV_and_Resume.pdf)
+Here is my [CV](https://drive.google.com/file/d/1k2qqESz_eF76dZ1blS-TkhqkXAdiPsDW/view?usp=drive_link)
