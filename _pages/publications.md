@@ -11,9 +11,9 @@ A major part of my research is proposing novel statistical methodologies for bio
 
 - **Yan Liu**, Dewei Wang, Li Li, and Dingsheng Li (2023). ["Assessing disparities in Americans’ exposure to PCBs and PBDEs based on NHANES pooled biomonitoring data"](https://doi.org/10.1080/01621459.2023.2195546). *Journal of the American Statistical Association*: 1-13.
 
-- **Yan Liu**, Christopher S. McMahan, Joshua M. Tebbs, Colin M. Gallagher, and Christopher R. Bilder (2021). ["Generalized additive regression for group testing data"](https://doi.org/10.1093/biostatistics/kxaa003). *Biostatistics*, 22, no. 4: 873-889.
-
 - Dewei Wang, Xichen Mou, and **Yan Liu** (2022). ["Varying‐coefficient regression analysis for pooled biomonitoring"](https://doi.org/10.1111/biom.13516). *Biometrics*, 78, no. 4: 1328-1341.
+- 
+- **Yan Liu**, Christopher S. McMahan, Joshua M. Tebbs, Colin M. Gallagher, and Christopher R. Bilder (2021). ["Generalized additive regression for group testing data"](https://doi.org/10.1093/biostatistics/kxaa003). *Biostatistics*, 22, no. 4: 873-889.
 
 - **Yan Liu**, Christopher McMahan, and Colin Gallagher (2017). ["A general framework for the regression analysis of pooled biomarker assessments"]( https://doi.org/10.1002/sim.7291). *Statistics in medicine*, 36, no. 15: 2363-2377.
 
